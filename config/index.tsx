@@ -9,8 +9,8 @@ export const projectId = process.env.NEXT_PUBLIC_W3C_PID
 if (!projectId) throw new Error('Project ID is not defined')
 
 const metadata = {
-  name: 'io.vault VS dApp',
-  description: 'manage whitelisted addresses for your io.vault Virtual Signer',
+  name: 'example dApp',
+  description: 'example dApp description',
   url: 'http://localhost:3000/', // origin must match your domain & subdomain
   icons: ['https://avatars.githubusercontent.com/u/37784886']
 }

@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This boilerplate provides a functional basis to build and deploy a dApp utilizing NextJS 14, Tailwind CSS, Viem, WAGMI, and WalletConnect's AppKit.
 
 ## Getting Started
 
